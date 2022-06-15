@@ -1,0 +1,7 @@
+name = "SimilarType"
+uuid = "21b7644f-0c54-4afd-87aa-10782444ca7b"
+authors = ["Manuel Berkemeier <manuelbb@mail.uni-paderborn.de>"]
+version = "0.1.0"
+
+[deps]
+InteractiveUtils = "b77e0a4c-d291-57a0-90e8-8db25a27a240"
